@@ -12,8 +12,8 @@
 			"timeseriesId" : "com.dynatrace.builtin:service.failurerate",
 			"aggregation" : "avg",
 			"tags" : "app:carts,environment:dev",
-			"upperSevere" : 5.0,
-			"upperWarning" : 0.5
+			"upperWarning" : 0.5,
+			"upperSevere" : 5.0
         }
     ]
 }
